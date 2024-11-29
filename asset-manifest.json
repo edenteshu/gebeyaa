@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gebeyaa/static/css/main.5e26201b.css",
+    "main.js": "/gebeyaa/static/js/main.1393563f.js",
+    "static/media/hero1.png": "/gebeyaa/static/media/hero1.c059dc3072eb32c2ce9b.png",
+    "static/media/banner.png": "/gebeyaa/static/media/banner.e84b70442c337228b1fb.png",
+    "static/media/vintage.png": "/gebeyaa/static/media/vintage.349b9a55af1aad324e66.png",
+    "static/media/beauty.png": "/gebeyaa/static/media/beauty.ec8ad12662c51dd33d10.png",
+    "static/media/shoes-removebg-preview.png": "/gebeyaa/static/media/shoes-removebg-preview.b46d05c2c43682f24a22.png",
+    "static/media/bag-removebg-preview.png": "/gebeyaa/static/media/bag-removebg-preview.3c78f9bed53414a9cdf2.png",
+    "static/media/casual.png": "/gebeyaa/static/media/casual.35deb025eb8a990e32ba.png",
+    "static/media/dress-removebg-preview.png": "/gebeyaa/static/media/dress-removebg-preview.fd4cc00178c88320b7af.png",
+    "static/media/hero3.png": "/gebeyaa/static/media/hero3.308f0802cd17ff8b81bb.png",
+    "static/media/gym.png": "/gebeyaa/static/media/gym.da25773ca200dc97ae82.png",
+    "static/media/top.png": "/gebeyaa/static/media/top.85feb813b97c59fdaca8.png",
+    "static/media/dress.png": "/gebeyaa/static/media/dress.42a1f7c68c11501c912b.png",
+    "static/media/Slipper.png": "/gebeyaa/static/media/Slipper.3673b8550819498382a6.png",
+    "static/media/bag2.png": "/gebeyaa/static/media/bag2.25e46a984143695f7edd.png",
+    "static/media/shoe2.png": "/gebeyaa/static/media/shoe2.548580740301de73ed45.png",
+    "static/media/gebeyalogo-removebg-preview (1).png": "/gebeyaa/static/media/gebeyalogo-removebg-preview (1).ab485781389b8e3e7c56.png",
+    "static/media/hero2.jpg": "/gebeyaa/static/media/hero2.5ce920abf0db7d23e0b6.jpg",
+    "static/media/wig.png": "/gebeyaa/static/media/wig.bc741de8d17a6f9c0d70.png",
+    "static/media/belt.png": "/gebeyaa/static/media/belt.ce8f1deb91ee232702d1.png",
+    "static/media/hat.png": "/gebeyaa/static/media/hat.97b5346f423ba1c79b89.png",
+    "static/media/cosmo.png": "/gebeyaa/static/media/cosmo.41d6df70028df74f89b8.png",
+    "static/media/bra.png": "/gebeyaa/static/media/bra.05df3d696df57abeddf0.png",
+    "static/media/jacket.png": "/gebeyaa/static/media/jacket.f67a68f671ee31e3a3ce.png",
+    "static/media/sunglass.png": "/gebeyaa/static/media/sunglass.6a80d86a676c9404fcb3.png",
+    "index.html": "/gebeyaa/index.html",
+    "main.5e26201b.css.map": "/gebeyaa/static/css/main.5e26201b.css.map",
+    "main.1393563f.js.map": "/gebeyaa/static/js/main.1393563f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e26201b.css",
+    "static/js/main.1393563f.js"
+  ]
+}
